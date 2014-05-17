@@ -1,3 +1,3 @@
-### Here are some categorized algorithms 
+## Here are some categorized algorithms 
 
-## String
+### String Related
