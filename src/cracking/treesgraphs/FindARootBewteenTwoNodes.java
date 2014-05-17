@@ -49,15 +49,15 @@ public class FindARootBewteenTwoNodes {
 		return false;
 	}
 	
-	public boolean DFSRecursive(Graph graph, GraphNode target){
-		
-		
-		if ( (target.state == STATE.VISITED)){
-			if (target.)
-			target.state = STATE.VISITED;
-			
-		} else{
-		
-		}
-	}
+//	public boolean DFSRecursive(Graph graph, GraphNode target){
+//		
+////		
+////		if ( (target.state == STATE.VISITED)){
+////			if (target.)
+////			target.state = STATE.VISITED;
+////			
+////		} else{
+////		
+////		}
+//	}
 }
