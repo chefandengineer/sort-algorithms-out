@@ -19,3 +19,10 @@
   * 17.7 Done. The answer in the book seems to be wrong, need to check when time permitted 
   * 17.9 A tedious question, skipped
   
+### Chapter 18
+
+  * 18.1 Not Done
+  * 18.2 Done ! Need to come back on this.
+  * 18.3 Not clear why the could get a number between (0 - i) instead of (0 - n) ! Come back on this
+  * 18.4 [READ ONLY]
+  
