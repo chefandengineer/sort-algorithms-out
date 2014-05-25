@@ -25,4 +25,8 @@
   * 18.2 Done ! Need to come back on this.
   * 18.3 Not clear why the could get a number between (0 - i) instead of (0 - n) ! Come back on this
   * 18.4 [READ ONLY]
+  * 18.5 Second solution needs a second thought
+  * 18.6 Need to figure out why it's O(n)
+  * 18.7 Done
+  * 18.8 Not Done
   
