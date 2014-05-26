@@ -8,6 +8,10 @@
   * 1.3 [Done]
   * 1.4 [Done]
   * 1.5 [Done]
+  * 1.6 [Not Done]
+  * 1.7 [Done]
+  * 1.8 [Done]
+  
 
 ### Chapter 4
    
