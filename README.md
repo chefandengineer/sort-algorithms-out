@@ -2,7 +2,7 @@
 
 ## Cracking Coding Interview 
 
-## Chapter 1 
+### Chapter 1 
   * 1.1 [Partial] Bit Vector Solution Not Implemented
   * 1.2 [Done]
   * 1.3 [Done]
@@ -12,6 +12,13 @@
   * 1.7 [Done]
   * 1.8 [Done]
   
+### Chapter 2 
+  * 2.1 [Done]
+  * 2.2 [Done]
+  * 2.3 [Done]
+  * 2.4 [Done]
+  * 2.5 [Partial]  Not done the second part, the 1's digit is at the tail  
+
 
 ### Chapter 4
    
