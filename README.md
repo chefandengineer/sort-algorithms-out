@@ -18,7 +18,8 @@
   * 2.3 [Done]
   * 2.4 [Done]
   * 2.5 [Partial]  Not done the second part, the 1's digit is at the tail  
-
+  * 2.6 [Not Done]
+  * 2.7 [Done]
 
 ### Chapter 4
    
