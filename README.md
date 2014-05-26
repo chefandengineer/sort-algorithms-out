@@ -2,6 +2,13 @@
 
 ## Cracking Coding Interview 
 
+## Chapter 1 
+  * 1.1 [Partial] Bit Vector Solution Not Implemented
+  * 1.2 [Done]
+  * 1.3 [Done]
+  * 1.4 [Done]
+  * 1.5 [Done]
+
 ### Chapter 4
    
    * 4.7 find next node is not done yet.
@@ -29,4 +36,6 @@
   * 18.6 Need to figure out why it's O(n)
   * 18.7 Done
   * 18.8 Not Done
-  
+  * 18.9 Done
+  * 18.10 Not Done
+  * 18.11 

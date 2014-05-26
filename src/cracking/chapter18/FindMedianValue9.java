@@ -3,6 +3,12 @@ package cracking.chapter18;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
+/**
+ * Updates takes O(logn)
+ * get median take constant time
+ * @author apple
+ *
+ */
 public class FindMedianValue9 {
 	private static PriorityQueue<Integer> _minHeap = new PriorityQueue<Integer>();
 	private static PriorityQueue<Integer> _maxHeap = new PriorityQueue<Integer>(100,new MaxComparator());
