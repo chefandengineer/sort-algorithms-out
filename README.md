@@ -51,3 +51,8 @@
   * 18.9 Done
   * 18.10 Not Done
   * 18.11 
+  
+### TODO REMINDER/Basic Things 
+  * Implement a HashMap 
+  * All the sorting algorithms 
+  * Trees
