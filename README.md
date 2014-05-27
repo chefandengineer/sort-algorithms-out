@@ -21,6 +21,10 @@
   * 2.6 [Not Done]
   * 2.7 [Done]
 
+### Chapter 3
+  * 3.1 [Not Done]
+  * 3.2 [Done]
+  
 ### Chapter 4
    
    * 4.7 find next node is not done yet.
