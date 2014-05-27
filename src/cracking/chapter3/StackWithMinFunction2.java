@@ -2,11 +2,11 @@ package cracking.chapter3;
 
 import java.util.Stack;
 
-public class StackWithMinFunction {
+public class StackWithMinFunction2 {
 	private Stack<Integer> _stack;
 	private Stack<Integer> _minStack;
 	
-	public StackWithMinFunction(){
+	public StackWithMinFunction2(){
 		_stack = new Stack<Integer>();
 		_minStack = new Stack<Integer>();
 	}
@@ -41,7 +41,7 @@ public class StackWithMinFunction {
 	}
 	
 	public static void main(String[] args){
-		StackWithMinFunction stack = new StackWithMinFunction();
+		StackWithMinFunction2 stack = new StackWithMinFunction2();
 		stack.push(2);
 		stack.push(2);
 		stack.push(3);
