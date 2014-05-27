@@ -17,7 +17,7 @@ public class WordFrequency {
 		//O(N)
 		Map<String, Integer> wordcount = new HashMap<String, Integer>();
 		for (String word : words) {
-			word.toLowerCase();
+			word = word.toLowerCase();
 			if (wordcount.containsKey(word)) {
 				int count = wordcount.get(word);
 				wordcount.put(word,++count);
@@ -41,7 +41,7 @@ public class WordFrequency {
 	}
 	
 	public static void main(String[] args){
-		String str = "string, hello string workd, one 1 2 trhree";
+		String str = "string, hello HELLO HELLO String workd, one 1 2 trhree";
 		List<String> ls = getTopTerms(str, 3);
 		System.out.println(ls);
 	}
